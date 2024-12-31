@@ -1,5 +1,14 @@
 # @nextui-org/listbox
 
+## 2.3.9
+
+### Patch Changes
+
+- [#4463](https://github.com/nextui-org/nextui/pull/4463) [`d92468a`](https://github.com/nextui-org/nextui/commit/d92468aa1e35d5022c071b5d2674f5bfb6408001) Thanks [@wingkwong](https://github.com/wingkwong)! - bump `@tanstack/react-virtual` to support react 19 peer dep
+
+- Updated dependencies []:
+  - @nextui-org/divider@2.2.5
+
 ## 2.3.8
 
 ### Patch Changes
